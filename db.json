@@ -1,0 +1,19 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 8,
+      "text": "this is feed from backend"
+    },
+    {
+      "id": 2,
+      "rating": 5,
+      "text": "this is feed 2 from backend"
+    },
+    {
+      "text": "king of world !  is a lie updated",
+      "rating": 7,
+      "id": 3
+    }
+  ]
+}
